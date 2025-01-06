@@ -23,12 +23,4 @@
   <a href="https://www.linkedin.com/in/matheus-brum-1aa758178/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:matheus.cbrum30@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-  
-### 📈 GitHub Activity Graph:
-![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=matheusbrum11&hide_border=true&theme=redical)
-  
-<div align="center">
-  
-  ![Snake animation](https://github.com/matheusbrum11/matheusbrum11/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+
